@@ -321,5 +321,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 895371799}
-  turnSpeed: 2
+  turnSpeed: 3.5
   speed: 5
