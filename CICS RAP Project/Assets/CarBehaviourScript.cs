@@ -7,7 +7,7 @@ public class CarBehaviourScript : MonoBehaviour
 
     public Rigidbody2D rb;
     public float turnSpeed = 5;
-    public int speed = 5;
+    public int speed = 6;
     private float moveY;
     private float turnX;
 
